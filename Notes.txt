@@ -1,0 +1,2 @@
+Created private route with auth.js which includes the logic of checking token and private route 
+component which will retun true based on auth.js. can now wrap multiple components into the private route
